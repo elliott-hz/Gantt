@@ -62,24 +62,64 @@
 
 ## M2-5. Requirements Analysis
 - M2-5.1 Functional requirements gathering and documentation
+  - M2-5.1.1 Iteration 1 requirements analysis
+  - M2-5.1.2 Iteration 2 requirements analysis
+  - M2-5.1.3 Iteration 3 requirements analysis
+  - M2-5.1.4 Iteration 4 requirements analysis
 - M2-5.2 Non-functional requirements specification
+  - M2-5.2.1 Iteration 1 non-functional requirements
+  - M2-5.2.2 Iteration 2 non-functional requirements
+  - M2-5.2.3 Iteration 3 non-functional requirements
+  - M2-5.2.4 Iteration 4 non-functional requirements
 - M2-5.3 Stakeholder review and approval
+  - M2-5.3.1 Iteration 1 stakeholder review
+  - M2-5.3.2 Iteration 2 stakeholder review
+  - M2-5.3.3 Iteration 3 stakeholder review
+  - M2-5.3.4 Iteration 4 stakeholder review
 
 ---
 
 ## M2-6. Product and System Design
 - M2-6.1 System architecture design
+  - M2-6.1.1 Iteration 1 architecture design
+  - M2-6.1.2 Iteration 2 architecture design
+  - M2-6.1.3 Iteration 3 architecture design
+  - M2-6.1.4 Iteration 4 architecture design
 - M2-6.2 Data flow and interface design
+  - M2-6.2.1 Iteration 1 data flow design
+  - M2-6.2.2 Iteration 2 data flow design
+  - M2-6.2.3 Iteration 3 data flow design
+  - M2-6.2.4 Iteration 4 data flow design
 - M2-6.3 Security and compliance design
+  - M2-6.3.1 Iteration 1 security design
+  - M2-6.3.2 Iteration 2 security design
+  - M2-6.3.3 Iteration 3 security design
+  - M2-6.3.4 Iteration 4 security design
 
 ---
 
 ## M2-7. System Testing
 - M2-7.1 Test plan development
+  - M2-7.1.1 Iteration 1 test plan
+  - M2-7.1.2 Iteration 2 test plan
+  - M2-7.1.3 Iteration 3 test plan
+  - M2-7.1.4 Iteration 4 test plan
 - M2-7.2 Integration and end-to-end testing
+  - M2-7.2.1 Iteration 1 integration testing
+  - M2-7.2.2 Iteration 2 integration testing
+  - M2-7.2.3 Iteration 3 integration testing
+  - M2-7.2.4 Iteration 4 integration testing
 - M2-7.3 Performance and security testing
+  - M2-7.3.1 Iteration 1 performance testing
+  - M2-7.3.2 Iteration 2 performance testing
+  - M2-7.3.3 Iteration 3 performance testing
+  - M2-7.3.4 Iteration 4 performance testing
 
 ---
 
 ## M2-8. System Delivery
-- System deployment, release management, and operational handover
+- M2-8.1 System deployment, release management, and operational handover
+  - M2-8.1.1 Iteration 1 deployment and release
+  - M2-8.1.2 Iteration 2 deployment and release
+  - M2-8.1.3 Iteration 3 deployment and release
+  - M2-8.1.4 Iteration 4 deployment and release
