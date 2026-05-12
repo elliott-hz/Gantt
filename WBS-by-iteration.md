@@ -1,4 +1,3 @@
-# Module 2: Usage Detection & Event Capture Engine
 
 # Iteration 1
 
